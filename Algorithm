@@ -1,0 +1,6 @@
+Step 1: Import the libraries.
+Step 2: Fetching the bot information(Enter the Token value obtained from Bot-Father
+Step 3:  Update for future changes
+Step 4: A dispatcher is used to dispatch this update to our telegram bot
+Step 5: We create the command for a specific reply that we want
+Step 6: Polling the update
